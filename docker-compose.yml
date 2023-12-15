@@ -1,0 +1,6 @@
+version: '3'
+services:
+  furkhan:
+    image: fk23/rootfurkhan:v1
+    ports:
+      - "8000:80"      
